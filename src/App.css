@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+.styledInput{
+  width: 450px;
+  height: 40px;
+  font-size: xx-large;
+}
+.styledButton{
+    width: 90px;
+    height: 39px;
+    background: dodgerblue;
+    color: red;
+    font-family: fantasy;
+    font-size: x-large;
+    margin-left: 15px;
+    padding-top: 4px;
+}
+.errorField{
+  color: red;
+}
+
